@@ -1,0 +1,984 @@
+{
+  "jobs": [
+    {
+      "id": "9",
+      "title": "Junior Vue Developer",
+      "type": "Full‑Time",
+      "description": "Excellent entry‑level opportunity for someone passionate about front‑end development. Join our NYC office to build user‑centric applications with guidance from senior engineers.",
+      "location": "New York, NY",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "StartupSphere",
+        "description": "StartupSphere works with early‑stage startups on MVPs and prototypes. We foster mentorship and rapid skill growth.",
+        "contactEmail": "hi@startupsphere.io",
+        "contactPhone": "555-246-8100"
+      }
+    },
+    {
+      "title": "React.js Freelancer",
+      "type": "Remote",
+      "location": "Remote",
+      "description": "Freelance opportunity to build custom Vue components for a marketing agency. Projects range from 1‑3 months; remote work with flexible hours.",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "MarketBlaze Agency",
+        "description": "MarketBlaze specializes in digital marketing and custom web components. We frequently engage freelancers for tight‑turnaround projects.",
+        "contactEmail": "freelance@marketblaze.com",
+        "contactPhone": "555-777-0000"
+      },
+      "id": "13"
+    },
+    {
+      "title": "Vue Component Engineer",
+      "type": "Part-Time",
+      "location": "San Diego, CA",
+      "description": "Focused on building and maintaining a shared component library for multiple Vue applications. Located in San Diego, CA.",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Coastal Code Labs",
+        "description": "Coastal Code Labs develops reusable UI libraries and design systems. We emphasize code quality and cross‑team collaboration.",
+        "contactEmail": "jobs@coastalcode.com",
+        "contactPhone": "555-202-3030"
+      },
+      "id": "14"
+    },
+    {
+      "id": "15",
+      "title": "Vue Performance Engineer",
+      "type": "Full‑Time",
+      "description": "Role focused on optimizing performance for Vue apps—profiling, lazy‑loading, SSR. Based in Philadelphia, PA.",
+      "location": "Philadelphia, PA",
+      "salary": "$100K - $115K",
+      "company": {
+        "name": "Philly Web Works",
+        "description": "Philly Web Works builds high‑performance web solutions for media and publishing companies. We care deeply about speed and UX.",
+        "contactEmail": "careers@phillyweb.com",
+        "contactPhone": "555-303-4040"
+      }
+    },
+    {
+      "title": "React Accessibility Specialist",
+      "type": "Remote",
+      "location": "Minneapolis, MN",
+      "description": "Looking for someone to lead accessibility improvements in Vue apps – focus on WCAG compliance and ARIA usage. Location: Minneapolis, MN.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Midland Digital",
+        "description": "Midland Digital is committed to inclusive web experiences. We work with public sector and educational institutions.",
+        "contactEmail": "hello@midlanddigital.com",
+        "contactPhone": "555-404-5050"
+      },
+      "id": "16"
+    },
+    {
+      "title": "React Backend Integration Engineer",
+      "type": "Part-Time",
+      "location": "St. Louis, MO",
+      "description": "Integrate complex back‑end APIs with Vue front ends in St. Louis, MO. Experience with Node.js, microservices, and API design required.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Gateway Tech",
+        "description": "Gateway Tech integrates front‑end and server‑side systems for mid‑market companies. We value full‑stack collaboration.",
+        "contactEmail": "jobs@gatewaytech.com",
+        "contactPhone": "555-505-6060"
+      },
+      "id": "17"
+    },
+    {
+      "id": "18",
+      "title": "Vue DevOps Engineer",
+      "type": "Full‑Time",
+      "description": "Work at the intersection of front‑end and CI/CD pipelines—deploy Vue apps via Docker, Kubernetes. Based in Charlotte, NC.",
+      "location": "Charlotte, NC",
+      "salary": "$105K - $120K",
+      "company": {
+        "name": "Queen City DevOps",
+        "description": "Queen City DevOps automates the delivery of web apps for clients in finance and retail. We focus on reliability and scalability.",
+        "contactEmail": "careers@qcdops.com",
+        "contactPhone": "555-606-7070"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Senior Vue + GraphQL Engineer",
+      "type": "Full‑Time",
+      "description": "Join us in Dallas, TX to build next‑gen applications with Vue.js and GraphQL. Must have experience crafting complex queries and caching strategies.",
+      "location": "Dallas, TX",
+      "salary": "$110K - $125K",
+      "company": {
+        "name": "Lone Star Apps",
+        "description": "Lone Star Apps builds scalable enterprise solutions with modern tech stacks. Collaboration and ownership are core values.",
+        "contactEmail": "jobs@lonestarapps.com",
+        "contactPhone": "555-707-8080"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Vue Tech Lead — eCommerce",
+      "type": "Full‑Time",
+      "description": "Lead Vue team focused on building e‑commerce storefronts and admin portals in Nashville, TN. Expertise with Vuex, SSR, and headless CMS integration.",
+      "location": "Nashville, TN",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Music City Commerce",
+        "description": "Music City Commerce delivers cutting‑edge digital storefronts for retail brands. We combine design, performance, and commerce expertise.",
+        "contactEmail": "lead@musiccitycommerce.com",
+        "contactPhone": "555-808-9090"
+      }
+    },
+    {
+      "id": "e711",
+      "type": "Part-Time",
+      "title": "Mio  imadav",
+      "description": "ss z",
+      "salary": "$70K - $80K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "svavav",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "e21c",
+      "type": "Remote",
+      "title": "Mio  imada",
+      "description": "dydguqoc",
+      "salary": "$80K - $90K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "vwweb",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "f609",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": "vdsdvs",
+      "salary": "$60K - $70K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "svdds",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "6b0c",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "csavev",
+      "salary": "$175K - $200K",
+      "location": "Philippines",
+      "company": {
+        "name": "",
+        "description": "avava",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": ""
+      }
+    },
+    {
+      "id": "4385",
+      "type": "Full-Time",
+      "title": "Mio  imadav",
+      "description": "wq",
+      "salary": "$150K - $175K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "wqccq",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "7b27",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "afeecc",
+      "salary": "$150K - $175K",
+      "location": "svvs",
+      "company": {
+        "name": "seev",
+        "description": "casvav",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "711f",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": "",
+      "salary": "$60K - $70K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "dvdvs",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "6337",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": "vcavvev",
+      "salary": "$80K - $90K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "wvawva",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "7687",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": "wvaav",
+      "salary": "$70K - $80K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "vvacs",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "621e",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": "csas",
+      "salary": "$90K - $100K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "sca",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "5dc6",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": " evwwv",
+      "salary": "$90K - $100K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "evbrrw",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "9704",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": "dvsvdbs",
+      "salary": "$150K - $175K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "sdbsbs",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "6f13",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": "wxxwx",
+      "salary": "$90K - $100K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "cwac",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "2dd7",
+      "type": "Full-Time",
+      "title": "Mio  imada  ",
+      "description": "  sbsb",
+      "salary": "$90K - $100K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "90b5",
+      "type": "Full-Time",
+      "title": "Mio  imada  ",
+      "description": "evwv",
+      "salary": "$150K - $175K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "evw",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "b38e",
+      "type": "Full-Time",
+      "title": "Mio  imada  ",
+      "description": "vewewv",
+      "salary": "$60K - $70K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "fe77",
+      "type": "Part-Time",
+      "title": "Mio  imada  ",
+      "description": "wqcqw",
+      "salary": "$100K - $125K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "wcqcq",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "8fc7",
+      "type": "Full-Time",
+      "title": "Mio  imada  ",
+      "description": "xwqw",
+      "salary": "$80K - $90K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "c3f4",
+      "type": "Remote",
+      "title": "Minari",
+      "description": "acave",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "1f87",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "csvae",
+      "salary": "$60K - $70K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "5fe6",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "cwe w",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "7120",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "cwcew",
+      "salary": "$60K - $70K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "b855",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "vvw",
+      "salary": "$90K - $100K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "fa1c",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "wevrvvr",
+      "salary": "$150K - $175K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "281a",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "0f27",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "cwacacc",
+      "salary": "$90K - $100K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "5273",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "",
+      "salary": "$90K - $100K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "474c",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "aa",
+      "salary": "$60K - $70K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "7723",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "",
+      "salary": "$100K - $125K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "d87e",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "s s ",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "2231",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "cece",
+      "salary": "$60K - $70K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "b78f",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "d422",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "fe46",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "ecec",
+      "salary": "$90K - $100K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "ca73",
+      "type": "Full-Time",
+      "title": "Simrech",
+      "description": "",
+      "salary": "$90K - $100K",
+      "location": "Philippines",
+      "company": {
+        "name": "",
+        "description": "",
+        "contactEmail": "Sim@myemail.com",
+        "contactPhone": ""
+      }
+    },
+    {
+      "id": "5166",
+      "type": "Full-Time",
+      "title": "Simrech",
+      "description": " s svr",
+      "salary": "$100K - $125K",
+      "location": "Philippines",
+      "company": {
+        "name": "",
+        "description": "",
+        "contactEmail": "Sim@myemail.com",
+        "contactPhone": ""
+      }
+    },
+    {
+      "id": "9979",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": "",
+      "salary": "$60K - $70K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "3390",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "wxqx",
+      "salary": "$100K - $125K",
+      "location": "Philippines",
+      "company": {
+        "name": "",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": ""
+      }
+    },
+    {
+      "id": "8a43",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "cwqcwq",
+      "salary": "$150K - $175K",
+      "location": "Philippines",
+      "company": {
+        "name": "",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": ""
+      }
+    },
+    {
+      "id": "a98b",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "jjj",
+      "salary": "$100K - $125K",
+      "location": "Philippines",
+      "company": {
+        "name": "",
+        "description": "jj",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": ""
+      }
+    },
+    {
+      "id": "2836",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "wqq",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "1d93",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "40a0",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "",
+      "salary": "$60K - $70K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "wfafw",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "99f3",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "ssa",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "aaffa",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "dd3e",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "efq",
+      "salary": "$100K - $125K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "2025-07-10T09:26:24.616Z",
+      "type": "Full-Time",
+      "title": "Minari",
+      "description": "cwqc",
+      "salary": "$70K - $80K",
+      "location": "Philippines",
+      "company": {
+        "name": "seev",
+        "description": "qqc",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "2025-07-10T09:27:17.461Z",
+      "type": "Full-Time",
+      "title": "Simrech",
+      "description": "casc",
+      "salary": "$100K - $125K",
+      "location": "Philippines",
+      "company": {
+        "name": "",
+        "description": "",
+        "contactEmail": "Sim@myemail.com",
+        "contactPhone": ""
+      }
+    },
+    {
+      "id": "2025-07-10T09:27:51.391Z",
+      "type": "Full-Time",
+      "title": "Mio  imada",
+      "description": "qccq",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "2025-07-10T09:28:37.929Z",
+      "type": "Full-Time",
+      "title": "Mio Imada",
+      "description": "eaag",
+      "salary": "$125K - $150K",
+      "location": "Philippines",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "2594",
+      "title": "Simrech",
+      "type": "Full-Time",
+      "location": "Philippines",
+      "description": "awcw",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "wccw",
+        "contactEmail": "Sim@myemail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "7643",
+      "title": "Mio Imada",
+      "type": "Full-Time",
+      "location": "Philippines",
+      "description": "cwcawc",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "dd72",
+      "title": "Simrech",
+      "type": "Full-Time",
+      "location": "Philippines",
+      "description": "",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "Sim@myemail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "7b10",
+      "title": "Mio Imada",
+      "type": "Internship",
+      "location": "Philippines",
+      "description": "acasca",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "acca",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "f54a",
+      "title": "Mio Imada",
+      "type": "Full-Time",
+      "location": "Philippines",
+      "description": "aX",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "mioImada@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "810f",
+      "title": "Simrech",
+      "type": "Full-Time",
+      "location": "Philippines",
+      "description": "",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "Sim@myemail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "d02e",
+      "title": "Mio  imada",
+      "type": "Full-Time",
+      "location": "Philippines",
+      "description": "",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "7f1c",
+      "title": "axa",
+      "type": "Full-Time",
+      "location": "Philippines",
+      "description": "",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "Sim@myemail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "7137",
+      "title": "Mio  imada",
+      "type": "Full-Time",
+      "location": "Philippines",
+      "description": "ccdv",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "6973",
+      "title": "Mio  imada",
+      "type": "Full-Time",
+      "location": "Philippines",
+      "description": "dwd",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Trendy Craze",
+        "description": "",
+        "contactEmail": "simreich1989@gmail.com",
+        "contactPhone": "09687283042"
+      }
+    },
+    {
+      "id": "d040",
+      "title": "React.js Freelancer",
+      "type": "Internship",
+      "location": "Remote",
+      "description": "Freelance opportunity to build custom Vue components for a marketing agency. Projects range from 1‑3 months; remote work with flexible hours.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "MarketBlaze Agency",
+        "description": "MarketBlaze specializes in digital marketing and custom web components. We frequently engage freelancers for tight‑turnaround projects.",
+        "contactEmail": "freelance@marketblaze.com",
+        "contactPhone": "555-777-0000"
+      }
+    },
+    {
+      "id": "9739",
+      "title": "TWICE",
+      "type": "Full-Time",
+      "location": "Korea",
+      "description": "duygihfvqdq",
+      "salary": "Over $200K",
+      "company": {
+        "name": "JYP Entertainment",
+        "description": "fgyqfiqwqwf",
+        "contactEmail": "jyptwice@twice.com",
+        "contactPhone": "5557770000"
+      }
+    }
+  ]
+}

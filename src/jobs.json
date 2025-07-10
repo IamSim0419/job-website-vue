@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Vue Developer",
+    "type": "Full‑Time",
+    "description": "We are seeking a talented Front‑End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+    "location": "Boston, MA",
+    "salary": "$70K - $80K",
+    "company": {
+      "name": "NewTek Solutions",
+      "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high‑quality products and services to our clients while fostering a collaborative and innovative work environment.",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Front‑End Engineer (Vue)",
+    "type": "Full‑Time",
+    "description": "Join our team as a Front‑End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+    "location": "Miami, FL",
+    "salary": "$70K - $80K",
+    "company": {
+      "name": "Veneer Solutions",
+      "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+      "contactEmail": "contact@loremipsum.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Vue.js Developer",
+    "type": "Full‑Time",
+    "description": "Are you passionate about front‑end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+    "location": "Brooklyn, NY",
+    "salary": "$70K - $80K",
+    "company": {
+      "name": "Dolor Cloud",
+      "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting‑edge products and services.",
+      "contactEmail": "contact@dolorsitamet.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Vue Front‑End Developer",
+    "type": "Part‑Time",
+    "description": "Join our team as a Part‑Time Front‑End Developer in beautiful Phoenix, AZ. We are looking for a self‑motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+    "location": "Phoenix, AZ",
+    "salary": "$60K - $70K",
+    "company": {
+      "name": "Alpha Elite",
+      "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+      "contactEmail": "contact@adipisicingelit.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Full Stack Vue Developer",
+    "type": "Full‑Time",
+    "description": "Exciting opportunity for a Full‑Time Front‑End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+    "location": "Atlanta, GA",
+    "salary": "$90K - $100K",
+    "company": {
+      "name": "Browning Technologies",
+      "description": "Browning Technologies is a rapidly growing technology company specializing in e‑commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+      "contactEmail": "contact@consecteturadipisicing.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Vue Native Developer",
+    "type": "Full‑Time",
+    "description": "Join our team as a Front‑End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+    "location": "Portland, OR",
+    "salary": "$100K - $110K",
+    "company": {
+      "name": "Port Solutions INC",
+      "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting‑edge solutions and our employees with a supportive and rewarding work environment.",
+      "contactEmail": "contact@ipsumlorem.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Mid‑Level Vue Developer",
+    "type": "Full‑Time",
+    "description": "Seeking a Mid‑Level Vue Developer to work on interactive dashboards and data‑driven applications in Chicago, IL. Must be proficient with Vuex, RESTful APIs, and responsive design.",
+    "location": "Chicago, IL",
+    "salary": "$80K - $90K",
+    "company": {
+      "name": "Midwest Tech Forge",
+      "description": "Midwest Tech Forge builds bespoke enterprise web applications for finance and healthcare clients. We value quality, collaboration, and continuous learning.",
+      "contactEmail": "jobs@midwestforge.com",
+      "contactPhone": "555-123-4567"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Remote Vue Developer",
+    "type": "Full‑Time",
+    "description": "Fully remote position for a front‑end developer specialized in Vue.js. Work with a distributed team across time zones, building SaaS platforms with GraphQL and Vue 3.",
+    "location": "Remote",
+    "salary": "$85K - $95K",
+    "company": {
+      "name": "CloudHorizon",
+      "description": "CloudHorizon delivers cloud‑native SaaS solutions for B2B clients. Our culture promotes autonomy, remote collaboration, and innovation.",
+      "contactEmail": "careers@cloudhorizon.com",
+      "contactPhone": "555-987-6543"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Junior Vue Developer",
+    "type": "Full‑Time",
+    "description": "Excellent entry‑level opportunity for someone passionate about front‑end development. Join our NYC office to build user‑centric applications with guidance from senior engineers.",
+    "location": "New York, NY",
+    "salary": "$60K - $70K",
+    "company": {
+      "name": "StartupSphere",
+      "description": "StartupSphere works with early‑stage startups on MVPs and prototypes. We foster mentorship and rapid skill growth.",
+      "contactEmail": "hi@startupsphere.io",
+      "contactPhone": "555-246-8100"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Vue UI Engineer",
+    "type": "Contract",
+    "description": "6‑month contract to work on UI components library for a fintech platform in Austin, TX. Must be experienced with Vue 3, Storybook, and TypeScript.",
+    "location": "Austin, TX",
+    "salary": "$90K - $110K (pro‑rated)",
+    "company": {
+      "name": "FinTech Gears",
+      "description": "FinTech Gears builds modular financial software for banks and investment firms. We prioritize clean code and component reusability.",
+      "contactEmail": "contract@fintechgears.com",
+      "contactPhone": "555-321-6549"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Vue Mobile Web Developer",
+    "type": "Full‑Time",
+    "description": "Looking for a developer to optimize PWA and mobile experiences using Vue.js and Service Workers. Based in Seattle, WA.",
+    "location": "Seattle, WA",
+    "salary": "$85K - $95K",
+    "company": {
+      "name": "Pioneer Apps Co.",
+      "description": "Pioneer Apps builds mobile‑first progressive web apps. Our culture is fast‑paced, innovative, and quality‑focused.",
+      "contactEmail": "jobs@pioneerapps.com",
+      "contactPhone": "555-654-3210"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Lead Vue Developer",
+    "type": "Full‑Time",
+    "description": "Lead front‑end architect role in Denver, CO. You’ll oversee a team building complex web portals with Vue, Vuex, and micro‑front‑end architecture.",
+    "location": "Denver, CO",
+    "salary": "$110K - $130K",
+    "company": {
+      "name": "Rocky Mountain Tech",
+      "description": "Rocky Mountain Tech delivers enterprise solutions for energy and logistics sectors. We champion leadership and technical excellence.",
+      "contactEmail": "lead@rmtech.co",
+      "contactPhone": "555-888-9999"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Vue.js Freelancer",
+    "type": "Freelance",
+    "description": "Freelance opportunity to build custom Vue components for a marketing agency. Projects range from 1‑3 months; remote work with flexible hours.",
+    "location": "Remote",
+    "salary": "$50/hr - $65/hr",
+    "company": {
+      "name": "MarketBlaze Agency",
+      "description": "MarketBlaze specializes in digital marketing and custom web components. We frequently engage freelancers for tight‑turnaround projects.",
+      "contactEmail": "freelance@marketblaze.com",
+      "contactPhone": "555-777-0000"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Vue Component Engineer",
+    "type": "Full‑Time",
+    "description": "Focused on building and maintaining a shared component library for multiple Vue applications. Located in San Diego, CA.",
+    "location": "San Diego, CA",
+    "salary": "$95K - $105K",
+    "company": {
+      "name": "Coastal Code Labs",
+      "description": "Coastal Code Labs develops reusable UI libraries and design systems. We emphasize code quality and cross‑team collaboration.",
+      "contactEmail": "jobs@coastalcode.com",
+      "contactPhone": "555-202-3030"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Vue Performance Engineer",
+    "type": "Full‑Time",
+    "description": "Role focused on optimizing performance for Vue apps—profiling, lazy‑loading, SSR. Based in Philadelphia, PA.",
+    "location": "Philadelphia, PA",
+    "salary": "$100K - $115K",
+    "company": {
+      "name": "Philly Web Works",
+      "description": "Philly Web Works builds high‑performance web solutions for media and publishing companies. We care deeply about speed and UX.",
+      "contactEmail": "careers@phillyweb.com",
+      "contactPhone": "555-303-4040"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Vue Accessibility Specialist",
+    "type": "Full‑Time",
+    "description": "Looking for someone to lead accessibility improvements in Vue apps – focus on WCAG compliance and ARIA usage. Location: Minneapolis, MN.",
+    "location": "Minneapolis, MN",
+    "salary": "$90K - $100K",
+    "company": {
+      "name": "Midland Digital",
+      "description": "Midland Digital is committed to inclusive web experiences. We work with public sector and educational institutions.",
+      "contactEmail": "hello@midlanddigital.com",
+      "contactPhone": "555-404-5050"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Vue Backend Integration Engineer",
+    "type": "Full‑Time",
+    "description": "Integrate complex back‑end APIs with Vue front ends in St. Louis, MO. Experience with Node.js, microservices, and API design required.",
+    "location": "St. Louis, MO",
+    "salary": "$95K - $105K",
+    "company": {
+      "name": "Gateway Tech”,",
+      "description": "Gateway Tech integrates front‑end and server‑side systems for mid‑market companies. We value full‑stack collaboration.",
+      "contactEmail": "jobs@gatewaytech.com",
+      "contactPhone": "555-505-6060"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Vue DevOps Engineer",
+    "type": "Full‑Time",
+    "description": "Work at the intersection of front‑end and CI/CD pipelines—deploy Vue apps via Docker, Kubernetes. Based in Charlotte, NC.",
+    "location": "Charlotte, NC",
+    "salary": "$105K - $120K",
+    "company": {
+      "name": "Queen City DevOps",
+      "description": "Queen City DevOps automates the delivery of web apps for clients in finance and retail. We focus on reliability and scalability.",
+      "contactEmail": "careers@qcdops.com",
+      "contactPhone": "555-606-7070"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Senior Vue + GraphQL Engineer",
+    "type": "Full‑Time",
+    "description": "Join us in Dallas, TX to build next‑gen applications with Vue.js and GraphQL. Must have experience crafting complex queries and caching strategies.",
+    "location": "Dallas, TX",
+    "salary": "$110K - $125K",
+    "company": {
+      "name": "Lone Star Apps",
+      "description": "Lone Star Apps builds scalable enterprise solutions with modern tech stacks. Collaboration and ownership are core values.",
+      "contactEmail": "jobs@lonestarapps.com",
+      "contactPhone": "555-707-8080"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Vue Tech Lead — eCommerce",
+    "type": "Full‑Time",
+    "description": "Lead Vue team focused on building e‑commerce storefronts and admin portals in Nashville, TN. Expertise with Vuex, SSR, and headless CMS integration.",
+    "location": "Nashville, TN",
+    "salary": "$120K - $140K",
+    "company": {
+      "name": "Music City Commerce",
+      "description": "Music City Commerce delivers cutting‑edge digital storefronts for retail brands. We combine design, performance, and commerce expertise.",
+      "contactEmail": "lead@musiccitycommerce.com",
+      "contactPhone": "555-808-9090"
+    }
+  }
+]
