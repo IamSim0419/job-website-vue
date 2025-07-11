@@ -2,26 +2,28 @@
 import logo from '@/assets/images/logo.svg'
 import { RouterLink, useRoute } from 'vue-router'
 
-const isActiveLink = (routePath) => {
-  const route = useRoute()
-  return route.path === routePath
-}
-
+const route = useRoute()
 const navLinks = [
   { name: 'Home', path: '/' },
   { name: 'Jobs', path: '/jobs' },
   { name: 'Add Job', path: '/job/add' },
 ]
+
+const isActiveLink = (path) => {
+  return route.path === path
+}
 </script>
 
 <template>
-  <header>
+  <header :class="{ active: isActiveLink('/') }">
     <div class="header-container">
+      <!-- Logo -->
       <RouterLink to="/" class="logo">
         <img :src="logo" alt="Logo" />
-        <span class="text-lg font-bold">JobSpots</span>
+        <span class="logo-name">JobSpots</span>
       </RouterLink>
 
+      <!-- Navigation -->
       <nav>
         <ul>
           <li v-for="link in navLinks" :key="link.name">
@@ -50,7 +52,11 @@ header {
   @apply p-4 bg-gray-800 w-full text-white drop-shadow-gray-600 drop-shadow-md;
 }
 
-header .header-container {
+header.active {
+  @apply drop-shadow-none;
+}
+
+.header-container {
   @apply flex items-center justify-between max-w-7xl mx-auto;
 }
 
@@ -64,6 +70,10 @@ header ul {
 
 .header-container .logo {
   @apply flex items-center;
+}
+
+.header-container .logo-name {
+  @apply text-lg font-bold;
 }
 
 .header-container .nav-links {

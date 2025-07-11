@@ -1,25 +1,25 @@
 {
   "jobs": [
     {
-      "id": "9",
       "title": "Junior Vue Developer",
-      "type": "Full‑Time",
-      "description": "Excellent entry‑level opportunity for someone passionate about front‑end development. Join our NYC office to build user‑centric applications with guidance from senior engineers.",
+      "type": "Part-Time",
       "location": "New York, NY",
-      "salary": "$60K - $70K",
+      "description": "Excellent entry‑level opportunity for someone passionate about front‑end development. Join our NYC office to build user‑centric applications with guidance from senior engineers.",
+      "salary": "$70K - $80K",
       "company": {
         "name": "StartupSphere",
         "description": "StartupSphere works with early‑stage startups on MVPs and prototypes. We foster mentorship and rapid skill growth.",
         "contactEmail": "hi@startupsphere.io",
         "contactPhone": "555-246-8100"
-      }
+      },
+      "id": "9"
     },
     {
       "title": "React.js Freelancer",
       "type": "Remote",
       "location": "Remote",
       "description": "Freelance opportunity to build custom Vue components for a marketing agency. Projects range from 1‑3 months; remote work with flexible hours.",
-      "salary": "$80K - $90K",
+      "salary": "$90K - $100K",
       "company": {
         "name": "MarketBlaze Agency",
         "description": "MarketBlaze specializes in digital marketing and custom web components. We frequently engage freelancers for tight‑turnaround projects.",
@@ -30,10 +30,10 @@
     },
     {
       "title": "Vue Component Engineer",
-      "type": "Part-Time",
+      "type": "Remote",
       "location": "San Diego, CA",
       "description": "Focused on building and maintaining a shared component library for multiple Vue applications. Located in San Diego, CA.",
-      "salary": "$80K - $90K",
+      "salary": "$90K - $100K",
       "company": {
         "name": "Coastal Code Labs",
         "description": "Coastal Code Labs develops reusable UI libraries and design systems. We emphasize code quality and cross‑team collaboration.",
@@ -127,32 +127,32 @@
       }
     },
     {
-      "id": "e711",
-      "type": "Part-Time",
-      "title": "Mio  imadav",
+      "title": "Sanity Developer",
+      "type": "Internship",
+      "location": "Philippines",
       "description": "ss z",
       "salary": "$70K - $80K",
-      "location": "Philippines",
       "company": {
         "name": "Trendy Craze",
         "description": "svavav",
         "contactEmail": "simreich1989@gmail.com",
         "contactPhone": "09687283042"
-      }
+      },
+      "id": "e711"
     },
     {
-      "id": "e21c",
+      "title": "Angular Engineer",
       "type": "Remote",
-      "title": "Mio  imada",
-      "description": "dydguqoc",
-      "salary": "$80K - $90K",
-      "location": "Philippines",
+      "location": "London",
+      "description": "dydguqocbuvxxqw",
+      "salary": "$90K - $100K",
       "company": {
         "name": "Trendy Craze",
-        "description": "vwweb",
-        "contactEmail": "simreich1989@gmail.com",
+        "description": "vwwebevwvcccccccccccccc",
+        "contactEmail": "angular12345@gmail.com",
         "contactPhone": "09687283042"
-      }
+      },
+      "id": "e21c"
     },
     {
       "id": "f609",
@@ -180,20 +180,6 @@
         "description": "avava",
         "contactEmail": "mioImada@gmail.com",
         "contactPhone": ""
-      }
-    },
-    {
-      "id": "4385",
-      "type": "Full-Time",
-      "title": "Mio  imadav",
-      "description": "wq",
-      "salary": "$150K - $175K",
-      "location": "Philippines",
-      "company": {
-        "name": "Trendy Craze",
-        "description": "wqccq",
-        "contactEmail": "simreich1989@gmail.com",
-        "contactPhone": "09687283042"
       }
     },
     {

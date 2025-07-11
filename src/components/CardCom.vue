@@ -17,6 +17,6 @@ defineProps({
 @reference 'tailwindcss';
 
 .card {
-  @apply p-6 rounded-sm hover:shadow-sm hover:shadow-gray-700 transition-shadow;
+  @apply p-6 rounded-sm shadow-sm shadow-gray-700 hover:shadow-md hover:shadow-gray-700 transition-shadow;
 }
 </style>

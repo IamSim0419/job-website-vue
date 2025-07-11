@@ -202,7 +202,7 @@ section {
 }
 
 section .form-container {
-  @apply max-w-7xl m-auto py-24;
+  @apply max-w-7xl m-auto py-24 px-4;
 }
 
 .form-container .form-layout {
