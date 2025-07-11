@@ -42,6 +42,7 @@ const state = reactive({
 //   }
 // })
 
+// Mock Fetching from public/jobs.json
 onMounted(async () => {
   try {
     const response = await axios.get('/jobs.json') // read full file
@@ -125,7 +126,7 @@ onMounted(async () => {
 }
 
 .container {
-  @apply max-w-7xl mx-auto py-10 px-6;
+  @apply max-w-7xl mx-auto py-10 px-4;
 }
 
 .job-layout {
