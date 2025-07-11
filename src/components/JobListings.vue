@@ -21,8 +21,8 @@ const state = reactive({
 onMounted(async () => {
   try {
     // await new Promise((resolve) => setTimeout(resolve, 500))
-    // const response = await axios.get('/api/jobs')
-    const response = await axios.get('/jobs.json')
+    const response = await axios.get('/api/jobs')
+    // const response = await axios.get('/jobs.json')
     state.jobs = response.data
   } catch (error) {
     console.log('Error Fetching Jobs', error)

@@ -17,26 +17,47 @@ const state = reactive({
   isLoading: true,
 })
 
-const deleteJob = async () => {
-  try {
-    const confirm = window.confirm('Are you sure you want to delete this job?')
-    if (confirm) {
-      await axios.delete(`/api/jobs/${jobId}`)
-      toast.success('Job Deleted Successfully')
-      router.push('/jobs')
-    }
-  } catch (error) {
-    console.error('Error deleting job', error)
-    toast.error('Job Not Deleted')
-  }
-}
+// const deleteJob = async () => {
+//   try {
+//     const confirm = window.confirm('Are you sure you want to delete this job?')
+//     if (confirm) {
+//       await axios.delete(`/api/jobs/${jobId}`)
+//       toast.success('Job Deleted Successfully')
+//       router.push('/jobs')
+//     }
+//   } catch (error) {
+//     console.error('Error deleting job', error)
+//     toast.error('Job Not Deleted')
+//   }
+// }
+
+// onMounted(async () => {
+//   try {
+//     const response = await axios.get(`/api/jobs/${jobId}`)
+//     state.job = response.data
+//   } catch (error) {
+//     console.error('Error fetching job', error)
+//   } finally {
+//     state.isLoading = false
+//   }
+// })
 
 onMounted(async () => {
   try {
-    const response = await axios.get(`/api/jobs/${jobId}`)
-    state.job = response.data
+    const response = await axios.get('/jobs.json') // read full file
+    const jobs = response.data
+
+    // Find specific job by id
+    const job = jobs.find((job) => job.id == jobId)
+
+    if (!job) {
+      throw new Error('Job not found')
+    }
+
+    state.job = job
   } catch (error) {
-    console.error('Error fetching job', error)
+    console.error('Error fetching job by ID', error)
+    toast.error('Failed to load job details')
   } finally {
     state.isLoading = false
   }
